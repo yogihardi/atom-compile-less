@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freshl/atom-compile-less"
+    "url": "https://github.com/yogihardi/atom-compile-less"
   },
   "license": "MIT",
   "engines": {
@@ -23,7 +23,7 @@
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/freshl/atom-compile-less/issues"
+    "url": "https://github.com/yogihardi/atom-compile-less/issues"
   },
-  "homepage": "https://github.com/freshl/atom-compile-less"
+  "homepage": "https://github.com/yogihardi/atom-compile-less"
 }
